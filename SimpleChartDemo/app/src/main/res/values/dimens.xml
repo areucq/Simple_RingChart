@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="ring_chart_title_size">33sp</dimen>
+    <dimen name="ring_chart_subtitle_size">20sp</dimen>
+
+    <dimen name="ring_chart_label_text_size">17sp</dimen>
+
+</resources>
